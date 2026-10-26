@@ -1,8 +1,8 @@
 
 import React from "react";
 import { BrowserRouter, Routes, Route } from "react-router-dom";
-import UserList from "./components/UserList";
-import UserDetails from "./components/UserDetails";
+import UserList from "./UserList.js";
+import UserDetails from "./UserDetails,js";
 
 function App() {
   return (
